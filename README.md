@@ -148,4 +148,5 @@ NEXT_PUBLIC_API_URL=https://<control-plane-host> npm run dev
 
 ## License
 
-This project is part of a Final Year Project at the University of Lagos.
+Copyright © 2026 Damilarondo. All rights reserved.  
+This software is proprietary and confidential. Unauthorized copying, distribution, or modification is strictly prohibited.
