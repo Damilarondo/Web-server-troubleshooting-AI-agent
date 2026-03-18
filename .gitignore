@@ -1,0 +1,52 @@
+# Node / Dashboard
+node_modules/
+.next/
+/build
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Database & ML artifacts
+*.db
+*.db-journal
+*.pkl
+*.csv
+
+# Config with secrets
+ai_agent_client/config.json
+ai_agent_client/config.json.*
+
+# Environment
+.env
+.env.*
+
+# Runtime
+*.log
+.heartbeat
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Project documents (not for GitHub)
+Context/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Gemini / Agent metadata
+.agent/
+_agent/
+.gemini/
+
+# Nginx configs (deployment-specific)
+*.conf
+!eslint.config.*
+!postcss.config.*
+!next.config.*
+!tsconfig.*
